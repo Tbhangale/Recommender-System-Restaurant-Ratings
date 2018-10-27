@@ -1,4 +1,4 @@
-# Recommender Systems on Restaurant Ratings data
+# Recommender System on Restaurant Ratings data
 
 1. Recommender systems aim to predict the rating that a user will give for an item (e.g., a restaurant, a movie, a product, a Point of Interest).
 
