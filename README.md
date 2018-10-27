@@ -2,7 +2,7 @@
 
 1. Recommender systems aim to predict the rating that a user will give for an item (e.g., a restaurant, a movie, a product, a Point of Interest).
 
-  Surprise (http://surpriselib.com) is a Python package for developing recommender systems. To install
+	Surprise (http://surpriselib.com) is a Python package for developing recommender systems. To install
   Surprise, the easiest way is to use pip.
   Open your console:
   $ pip install numpy
