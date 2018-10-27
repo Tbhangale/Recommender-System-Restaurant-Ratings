@@ -2,11 +2,11 @@
 
 1. Recommender systems aim to predict the rating that a user will give for an item (e.g., a restaurant, a movie, a product, a Point of Interest).
 
-Surprise (http://surpriselib.com) is a Python package for developing recommender systems. To install
-Surprise, the easiest way is to use pip.
-Open your console:
-$ pip install numpy
-$ pip install scikit-surprise
+  Surprise (http://surpriselib.com) is a Python package for developing recommender systems. To install
+  Surprise, the easiest way is to use pip.
+  Open your console:
+  $ pip install numpy
+  $ pip install scikit-surprise
 
 2. Download an experimental dataset “restaurant_ratings.txt”: Files/Data/restaurant_ratings.txt. Load data from “restaurant_ratings.txt” with line format: 'user item rating timestamp'.
 
